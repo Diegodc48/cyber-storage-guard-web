@@ -1,0 +1,16 @@
+{
+  "name": "CYBER STORAGE GUARD",
+  "short_name": "CSG",
+  "lang": "es",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
